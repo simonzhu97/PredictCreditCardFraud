@@ -2,7 +2,7 @@
 This is a mini solo project that examines credit card transactions and tries to identify fraudulent activities.
 
 ## Data
-The original data comes from a Kaggle dataset. https://www.kaggle.com/mlg-ulb/creditcardfraud
+The original data comes from a Kaggle dataset. https://www.kaggle.com/c/ieee-fraud-detection/data
 
 1. newtrain_transaction_200000.csv: This is a training dataset that includes transaction details such as transaction time, transaction id, location and etc.
 2. newtrain_identity.csv: The additional features about card holder identities for the training samples are included in this dataset. Notice that the data has already been anonymized.
