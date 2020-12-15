@@ -12,9 +12,8 @@ The data has already been split into testing and training datasets. The testing 
 4. `newtest_identity.csv`: The testing dataset containing card hodler identities.
 
 ## Code
-The Codes folder includes several files.
+The Codes folder includes one file.
 1. `XGBoost_Jupyter_Notebook`: a Jupyter notebook that contains sections about data cleaning, feature engineering, model building and testing, final conclusions and future works.
-2. `XGBoost_Python`: Considering that Jupyter notebook requires installation of the platform on the computer, I also include a Python version of codes on this repository for accessibility.
 
 ## Results
 The exact predictions made by the model I built is included in `newsample_submission.csv`.
